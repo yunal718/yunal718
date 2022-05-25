@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yasin Ünal</h1>
-<h3 align="center">I am a front-end web developer from Turkey. I am passionate about building excellent software that improves the lives of those around me. I specialize in creating software for clients ranging from individuals and small-businesses all the way to large enterprise corporations.</h3>
+<h3 align="center">I am a full stack web developer from Turkey. I am passionate about building excellent software that improves the lives of those around me. I specialize in creating software for clients ranging from individuals and small-businesses all the way to large enterprise corporations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yunal718&label=Profile%20views&color=0e75b6&style=flat" alt="yunal718" /> </p>
 
